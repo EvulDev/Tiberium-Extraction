@@ -9,7 +9,7 @@ class CfgPatches {
         requiredAddons[] = {"tib_main"};
         author = ECSTRING(main,modteam);
         authors[] = {"Brostrom.A (Evul)"};
-        url = ECSTRING(main,URL);
+        url = ECSTRING(main,url);
         VERSION_CONFIG;
     };
 };

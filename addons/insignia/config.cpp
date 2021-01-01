@@ -23,4 +23,4 @@ class CfgPatches {
     };
 };
 
-#include "CfgVehicles.hpp"
+#include "CfgUnitInsignia.hpp"

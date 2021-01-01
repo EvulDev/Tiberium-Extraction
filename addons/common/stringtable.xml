@@ -3,8 +3,14 @@
         <Key ID="str_tib_common_faction_gdi">
             <English>GDI</English>
         </Key>
+        <Key ID="str_tib_common_faction_gdi_full">
+            <English>Global Defense Initiative</English>
+        </Key>
         <Key ID="str_tib_common_faction_nod">
             <English>NOD</English>
+        </Key>
+        <Key ID="str_tib_common_faction_nod_full">
+            <English>Brotherhood of Nod</English>
         </Key>
     </Package>
 </Project>
