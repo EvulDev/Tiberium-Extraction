@@ -25,5 +25,5 @@ py make.py release ci
 
 # Clean up
 Write-Host "Restoring version files..."
-git checkout origin/master ../addons/main/script_version.hpp
-git checkout origin/master ../mod.cpp
+git checkout origin/main ../addons/main/script_version.hpp
+git checkout origin/main ../mod.cpp
