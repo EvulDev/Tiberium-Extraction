@@ -1,0 +1,10 @@
+<Project name="tib">
+    <Package name="common">
+        <Key ID="str_tib_common_faction_gdi">
+            <English>GDI</English>
+        </Key>
+        <Key ID="str_tib_common_faction_nod">
+            <English>NOD</English>
+        </Key>
+    </Package>
+</Project>

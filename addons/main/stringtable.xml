@@ -1,0 +1,13 @@
+<Project name="tib">
+    <Package name="main">
+        <Key ID="str_tib_main_display">
+            <English>Tiberium</English>
+        </Key>
+        <Key ID="str_tib_main_modteam">
+            <English>Tiberium Mod Team</English>
+        </Key>
+        <Key ID="str_tib_main_url">
+            <English>http://7cav.us</English>
+        </Key>
+    </Package>
+</Project>

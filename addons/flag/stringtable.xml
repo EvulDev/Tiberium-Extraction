@@ -1,0 +1,22 @@
+<Project name="tib">
+    <Package name="flag">
+        <Key ID="STR_tib_flag_gdi_00">
+            <English>Flag (GDI)</English>
+        </Key>
+        <Key ID="STR_tib_flag_banner_gdi_00">
+            <English>Banner (GDI)</English>
+        </Key>
+        <Key ID="STR_tib_flag_nod_00">
+            <English>Flag (NOD - Black)</English>
+        </Key>
+        <Key ID="STR_tib_flag_banner_nod_00">
+            <English>Banner (NOD - Black)</English>
+        </Key>
+        <Key ID="STR_tib_flag_nod_01">
+            <English>Flag (NOD - Red)</English>
+        </Key>
+        <Key ID="STR_tib_flag_banner_nod_01">
+            <English>Banner (NOD - Red)</English>
+        </Key>
+    </Package>
+</Project>

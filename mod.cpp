@@ -1,0 +1,12 @@
+name = "Tiberium DevBuild";
+picture = "logo_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/TiberiumMod/Tiberium";
+description = "Tiberium";
+logo = "logo_ca.paa";
+logoOver = "logo_ca.paa";
+tooltip = "Tiberium DevBuild";
+tooltipOwned = "Tiberium Owned";
+overview = "Tiberium";
+author = "Tiberium Mod Team";
+overviewPicture = "logo_ca.paa";
