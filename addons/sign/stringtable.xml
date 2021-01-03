@@ -1,0 +1,10 @@
+<Project name="tib">
+    <Package name="sign">
+        <Key ID="STR_tibe_sign_tiberiumdanger_english_black">
+            <English>Sign (Tiberium Danger - International)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_tiberiumdanger_english_green">
+            <English>Sign (Tiberium Danger (Colored) - International)</English>
+        </Key>
+    </Package>
+</Project>

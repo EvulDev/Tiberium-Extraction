@@ -1,21 +1,21 @@
 <Project name="tib">
     <Package name="insignia">
-        <Key ID="STR_tib_insignia_gdi_00">
+        <Key ID="STR_tibe_insignia_gdi_00">
             <English>GDI (Black)</English>
         </Key>
-        <Key ID="STR_tib_insignia_gdi_01">
+        <Key ID="STR_tibe_insignia_gdi_01">
             <English>GDI (Grey)</English>
         </Key>
-        <Key ID="STR_tib_insignia_gdi_02">
+        <Key ID="STR_tibe_insignia_gdi_02">
             <English>GDI (White)</English>
         </Key>
-        <Key ID="STR_tib_insignia_nod_00">
+        <Key ID="STR_tibe_insignia_nod_00">
             <English>NOD (Black)</English>
         </Key>
-        <Key ID="STR_tib_insignia_nod_01">
+        <Key ID="STR_tibe_insignia_nod_01">
             <English>NOD (Red)</English>
         </Key>
-        <Key ID="STR_tib_insignia_nod_02">
+        <Key ID="STR_tibe_insignia_nod_02">
             <English>NOD (White)</English>
         </Key>
     </Package>

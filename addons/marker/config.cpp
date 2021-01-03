@@ -4,12 +4,12 @@ class CfgPatches {
     class ADDON {
         name = COMPONENT_NAME;
         units[] = {
-            "tibe_insignia_gdi_00_f",
-            "tibe_insignia_gdi_01_f",
-            "tibe_insignia_gdi_02_f",
-            "tibe_insignia_nod_00_f",
-            "tibe_insignia_nod_01_f",
-            "tibe_insignia_nod_02_f "
+            "tibe_flag_gdi_00",
+            "tibe_flag_gdi_01",
+            "tibe_flag_nod_00",
+            "tibe_flag_nod_01",
+            "tibe_mil_tiberium_warning",
+            "tibe_mil_tiberium_warning_noShadow"
         };
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
@@ -23,4 +23,4 @@ class CfgPatches {
     };
 };
 
-#include "CfgUnitInsignia.hpp"
+#include "CfgMarkers.hpp"

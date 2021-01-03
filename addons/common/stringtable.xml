@@ -1,15 +1,15 @@
 <Project name="tib">
     <Package name="common">
-        <Key ID="str_tib_common_faction_gdi">
+        <Key ID="str_tibe_common_faction_gdi">
             <English>GDI</English>
         </Key>
-        <Key ID="str_tib_common_faction_gdi_full">
+        <Key ID="str_tibe_common_faction_gdi_full">
             <English>Global Defense Initiative</English>
         </Key>
-        <Key ID="str_tib_common_faction_nod">
+        <Key ID="str_tibe_common_faction_nod">
             <English>NOD</English>
         </Key>
-        <Key ID="str_tib_common_faction_nod_full">
+        <Key ID="str_tibe_common_faction_nod_full">
             <English>Brotherhood of Nod</English>
         </Key>
     </Package>

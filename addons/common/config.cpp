@@ -6,7 +6,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"tib_main"};
+        requiredAddons[] = {"tibe_main"};
         author = ECSTRING(main,modteam);
         authors[] = {"Brostrom.A (Evul)"};
         url = ECSTRING(main,url);

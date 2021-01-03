@@ -1,0 +1,19 @@
+<Project name="tib">
+    <Package name="marker">
+        <Key ID="STR_tibe_marker_military_tiberium_warning">
+            <English>Tiberium</English>
+        </Key>
+        <Key ID="STR_tibe_marker_flag_gdi_00">
+            <English>GDI - Black</English>
+        </Key>
+        <Key ID="STR_tibe_marker_flag_gdi_01">
+            <English>GDI - Grey</English>
+        </Key>
+        <Key ID="STR_tibe_marker_flag_nod_00">
+            <English>NOD - Black</English>
+        </Key>
+        <Key ID="STR_tibe_marker_flag_nod_01">
+            <English>NOD - Red</English>
+        </Key>
+    </Package>
+</Project>
