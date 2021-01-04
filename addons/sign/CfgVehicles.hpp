@@ -23,4 +23,28 @@ class CfgVehicles {
             QPATHTOF(data\tibe_tiberiumdanger_english_green_co.paa)
         };
     };
+
+    class Land_Sign_WarningMilitaryArea_F;
+    class tibe_land_sign_zonedanger_english_F : Land_Sign_WarningMilitaryArea_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(zonedanger_english);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonedanger_english_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_zonedanger_english_co.paa)
+        };
+    };
+    class tibe_land_sign_zonedanger_english_old_F : Land_Sign_WarningMilitaryArea_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(zonedanger_english_old);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonedanger_english_old_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_zonedanger_english_old_co.paa)
+        };
+    };
 };

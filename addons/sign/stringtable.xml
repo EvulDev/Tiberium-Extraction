@@ -6,5 +6,11 @@
         <Key ID="STR_tibe_sign_tiberiumdanger_english_green">
             <English>Sign (Tiberium Danger (Colored) - International)</English>
         </Key>
+        <Key ID="STR_tibe_sign_zonedanger_english">
+            <English>Sign (Yellow Zone - International)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_zonedanger_english_old">
+            <English>Sign (Yellow Zone - International) (Old)</English>
+        </Key>
     </Package>
 </Project>

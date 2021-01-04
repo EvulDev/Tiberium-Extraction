@@ -5,7 +5,9 @@ class CfgPatches {
         name = COMPONENT_NAME;
         units[] = {
             "tibe_land_sign_tiberiumdanger_english_black_F",
-            "tibe_land_sign_tiberiumdanger_english_green_F"
+            "tibe_land_sign_tiberiumdanger_english_green_F",
+            "tibe_land_sign_zonedanger_english_F",
+            "tibe_land_sign_zonedanger_english_old_F"
         };
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
