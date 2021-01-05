@@ -24,27 +24,96 @@ class CfgVehicles {
         };
     };
 
+
     class Land_Sign_WarningMilitaryArea_F;
-    class tibe_land_sign_zonedanger_english_F : Land_Sign_WarningMilitaryArea_F {
+    class tibe_land_sign_zonered_english_F : Land_Sign_WarningMilitaryArea_F {
         scope = 2;
         scopeCurator = 2;
-        displayName = CSTRING(zonedanger_english);
+        displayName = CSTRING(zonered_english);
         author = ECSTRING(main,modteam);
-        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonedanger_english_F.jpg);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonered_english_F.jpg);
 
         hiddenSelectionsTextures[] = {
-            QPATHTOF(data\tibe_zonedanger_english_co.paa)
+            QPATHTOF(data\tibe_zonered_english_co.paa)
         };
     };
-    class tibe_land_sign_zonedanger_english_old_F : Land_Sign_WarningMilitaryArea_F {
+    class tibe_land_sign_zonered_english_old_F : Land_Sign_WarningMilitaryArea_F {
         scope = 2;
         scopeCurator = 2;
-        displayName = CSTRING(zonedanger_english_old);
+        displayName = CSTRING(zonered_english_old);
         author = ECSTRING(main,modteam);
-        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonedanger_english_old_F.jpg);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonered_english_old_F.jpg);
 
         hiddenSelectionsTextures[] = {
-            QPATHTOF(data\tibe_zonedanger_english_old_co.paa)
+            QPATHTOF(data\tibe_zonered_english_old_co.paa)
+        };
+    };
+
+    class tibe_land_sign_zoneyellow_english_F : Land_Sign_WarningMilitaryArea_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(zoneyellow_english);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zoneyellow_english_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_zoneyellow_english_co.paa)
+        };
+    };
+    class tibe_land_sign_zonedanger_english_F : tibe_land_sign_zoneyellow_english_F {
+        scope = 1;
+        scopeCurator = 1;
+    };
+
+    class tibe_land_sign_zoneyellow_english_old_F : Land_Sign_WarningMilitaryArea_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(zoneyellow_english_old);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zonezoneyellow_english_old_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_zoneyellow_english_old_co.paa)
+        };
+    };
+    class tibe_land_sign_zonedanger_english_old_F : tibe_land_sign_zoneyellow_english_old_F {
+        scope = 1;
+        scopeCurator = 1;
+    };
+
+    class tibe_land_sign_zoneblue_english_F : Land_Sign_WarningMilitaryArea_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(zoneblue_english);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zoneblue_english_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_zoneblue_english_co.paa)
+        };
+    };
+    class tibe_land_sign_zoneblue_english_old_F : Land_Sign_WarningMilitaryArea_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(zoneblue_english_old);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_zoneblue_english_old_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_zoneblue_english_old_co.paa)
+        };
+    };
+
+    class Land_Sign_WarningUnexplodedAmmo_F;
+    class tibe_land_sign_tiberianstorage_english_F : Land_Sign_WarningUnexplodedAmmo_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(tiberianstorage_english);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_tiberianstorage_english_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_tiberiumstorage_english_co.paa)
         };
     };
 };

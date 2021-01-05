@@ -6,11 +6,26 @@
         <Key ID="STR_tibe_sign_tiberiumdanger_english_green">
             <English>Sign (Tiberium Danger (Colored) - International)</English>
         </Key>
-        <Key ID="STR_tibe_sign_zonedanger_english">
+        <Key ID="STR_tibe_sign_zonered_english">
+            <English>Sign (Red Zone - International)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_zonered_english_old">
+            <English>Sign (Red Zone - International) (Old)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_zoneyellow_english">
             <English>Sign (Yellow Zone - International)</English>
         </Key>
-        <Key ID="STR_tibe_sign_zonedanger_english_old">
+        <Key ID="STR_tibe_sign_zoneyellow_english_old">
             <English>Sign (Yellow Zone - International) (Old)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_zoneblue_english">
+            <English>Sign (Blue Zone - International)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_zoneblue_english_old">
+            <English>Sign (Blue Zone - International) (Old)</English>
+        </Key>
+        <Key ID="STR_tibe_sign_tiberianstorage_english">
+            <English>Sign (Tiberium Storage - International)</English>
         </Key>
     </Package>
 </Project>
