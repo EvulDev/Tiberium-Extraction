@@ -49,6 +49,29 @@ class CfgVehicles {
         };
     };
 
+    class tibe_flag_gdi_02_f : FlagCarrier {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(gdi_02);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_flag_gdi_02_f.jpg);
+
+        class EventHandlers {
+            init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_02_co.paa);
+        };
+    };
+    class tibe_banner_gdi_02_f : Banner_01_base_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(Banner_GDI_02);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_Banner_GDI_02_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_flag_gdi_02_co.paa)
+        };
+    };
+
     class tibe_flag_nod_00_f : FlagCarrier {
         scope = 2;
         scopeCurator = 2;

@@ -1,0 +1,22 @@
+<Project name="tibe">
+    <Package name="item">
+        <Key ID="STR_tibe_item_laptop_03_black_gdi_00">
+            <English>Rugged Laptop (Black, Open) (GDI)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_olive_gdi_00">
+            <English>Rugged Laptop (Olive, Open) (GDI)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_sand_gdi_00">
+            <English>Rugged Laptop (Sand, Open) (GDI)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_closed_black_gdi_00">
+            <English>Rugged Laptop (Black, Closed) (GDI)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_closed_olive_gdi_00">
+            <English>Rugged Laptop (Olive, Closed) (GDI)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_closed_sand_gdi_00">
+            <English>Rugged Laptop (Sand, Closed) (GDI)</English>
+        </Key>
+    </Package>
+</Project>

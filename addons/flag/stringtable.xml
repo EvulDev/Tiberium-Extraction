@@ -1,28 +1,34 @@
-<Project name="tib">
+<Project name="tibe">
     <Package name="flag">
         <Key ID="STR_tibe_flag_gdi_00">
-            <English>Flag (GDI - Black)</English>
+            <English>Flag (GDI)</English>
         </Key>
         <Key ID="STR_tibe_flag_banner_gdi_00">
-            <English>Banner (GDI - Black)</English>
+            <English>Banner (GDI)</English>
         </Key>
         <Key ID="STR_tibe_flag_gdi_01">
-            <English>Flag (GDI - Grey)</English>
+            <English>Flag (GDI, Border)</English>
         </Key>
         <Key ID="STR_tibe_flag_banner_gdi_01">
-            <English>Banner (GDI - Grey)</English>
+            <English>Banner (GDI, Border)</English>
+        </Key>
+        <Key ID="STR_tibe_flag_gdi_02">
+            <English>Flag (GDI, White)</English>
+        </Key>
+        <Key ID="STR_tibe_flag_banner_gdi_02">
+            <English>Banner (GDI, White)</English>
         </Key>
         <Key ID="STR_tibe_flag_nod_00">
-            <English>Flag (NOD - Black)</English>
+            <English>Flag (NOD, Black)</English>
         </Key>
         <Key ID="STR_tibe_flag_banner_nod_00">
-            <English>Banner (NOD - Black)</English>
+            <English>Banner (NOD, Black)</English>
         </Key>
         <Key ID="STR_tibe_flag_nod_01">
-            <English>Flag (NOD - Red)</English>
+            <English>Flag (NOD, Red)</English>
         </Key>
         <Key ID="STR_tibe_flag_banner_nod_01">
-            <English>Banner (NOD - Red)</English>
+            <English>Banner (NOD, Red)</English>
         </Key>
     </Package>
 </Project>
