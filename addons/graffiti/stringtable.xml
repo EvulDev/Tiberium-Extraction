@@ -1,0 +1,16 @@
+<Project name="tibe">
+    <Package name="graffiti">
+        <Key ID="STR_tibe_graffiti_gdi_white_large">
+            <English>GDI Logo (White, Large)</English>
+        </Key>
+        <Key ID="STR_tibe_graffiti_gdi_white_small">
+            <English>GDI Logo (White, Small)</English>
+        </Key>
+        <Key ID="STR_tibe_graffiti_nod_white_large">
+            <English>NOD Logo (White, Large)</English>
+        </Key>
+        <Key ID="STR_tibe_graffiti_nod_white_small">
+            <English>NOD Logo (White, Small)</English>
+        </Key>
+    </Package>
+</Project>

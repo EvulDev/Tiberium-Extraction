@@ -1,7 +1,6 @@
-
 class CfgVehicles {
     class FlagCarrier;
-    class Banner_01_base_F;
+    class Banner_01_F;
 
     class tibe_flag_gdi_00_f : FlagCarrier {
         scope = 2;
@@ -14,7 +13,18 @@ class CfgVehicles {
             init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_00_co.paa);
         };
     };
-    class tibe_banner_gdi_00_f : Banner_01_base_F {
+    class tibe_flag_gdi_00_battered_f : FlagCarrier {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(gdi_00_battered);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_flag_gdi_00_battered_f.jpg);
+
+        class EventHandlers {
+            init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_00_battered_ca.paa);
+        };
+    };
+    class tibe_banner_gdi_00_f : Banner_01_F {
         scope = 2;
         scopeCurator = 2;
         displayName = CSTRING(Banner_GDI_00);
@@ -37,7 +47,18 @@ class CfgVehicles {
             init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_01_co.paa);
         };
     };
-    class tibe_banner_gdi_01_f : Banner_01_base_F {
+    class tibe_flag_gdi_01_battered_f : FlagCarrier {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(gdi_01_battered);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_flag_gdi_01_battered_f.jpg);
+
+        class EventHandlers {
+            init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_01_battered_ca.paa);
+        };
+    };
+    class tibe_banner_gdi_01_f : Banner_01_F {
         scope = 2;
         scopeCurator = 2;
         displayName = CSTRING(Banner_GDI_01);
@@ -60,7 +81,18 @@ class CfgVehicles {
             init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_02_co.paa);
         };
     };
-    class tibe_banner_gdi_02_f : Banner_01_base_F {
+    class tibe_flag_gdi_02_battered_f : FlagCarrier {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(gdi_02_battered);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_flag_gdi_02_battered_f.jpg);
+
+        class EventHandlers {
+            init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_gdi_02_battered_ca.paa);
+        };
+    };
+    class tibe_banner_gdi_02_f : Banner_01_F {
         scope = 2;
         scopeCurator = 2;
         displayName = CSTRING(Banner_GDI_02);
@@ -83,7 +115,18 @@ class CfgVehicles {
             init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_nod_00_co.paa);
         };
     };
-    class tibe_banner_nod_00_f : Banner_01_base_F {
+    class tibe_flag_nod_00_battered_f : FlagCarrier {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(nod_00_battered);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_flag_nod_00_battered_f.jpg);
+
+        class EventHandlers {
+            init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_nod_00_battered_ca.paa);
+        };
+    };
+    class tibe_banner_nod_00_f : Banner_01_F {
         scope = 2;
         scopeCurator = 2;
         displayName = CSTRING(banner_nod_00);
@@ -106,7 +149,18 @@ class CfgVehicles {
             init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_nod_01_co.paa);
         };
     };
-    class tibe_banner_nod_01_f : Banner_01_base_F {
+    class tibe_flag_nod_01_battered_f : FlagCarrier {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(nod_01_battered);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_flag_nod_01_battered_f.jpg);
+
+        class EventHandlers {
+            init = (_this select 0) setFlagTexture QPATHTOF(data\tibe_flag_nod_01_battered_ca.paa);
+        };
+    };
+    class tibe_banner_nod_01_f : Banner_01_F {
         scope = 2;
         scopeCurator = 2;
         displayName = CSTRING(banner_nod_01);

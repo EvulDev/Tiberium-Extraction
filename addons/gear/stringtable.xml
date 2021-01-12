@@ -1,0 +1,13 @@
+<Project name="tibe">
+    <Package name="gear">
+        <Key ID="STR_tibe_gear_beret_gdi_00">
+            <English>Beret (GDI, Blue)</English>
+        </Key>
+        <Key ID="STR_tibe_gear_beret_nod_00">
+            <English>Beret (NOD, Black)</English>
+        </Key>
+        <Key ID="STR_tibe_gear_beret_nod_01">
+            <English>Beret (NOD, Red)</English>
+        </Key>
+    </Package>
+</Project>

@@ -3,11 +3,17 @@
         <Key ID="STR_tibe_flag_gdi_00">
             <English>Flag (GDI)</English>
         </Key>
+        <Key ID="STR_tibe_flag_gdi_00_battered">
+            <English>Flag (GDI, Battered)</English>
+        </Key>
         <Key ID="STR_tibe_flag_banner_gdi_00">
             <English>Banner (GDI)</English>
         </Key>
         <Key ID="STR_tibe_flag_gdi_01">
             <English>Flag (GDI, Border)</English>
+        </Key>
+        <Key ID="STR_tibe_flag_gdi_01_battered">
+            <English>Flag (GDI, Border, Battered)</English>
         </Key>
         <Key ID="STR_tibe_flag_banner_gdi_01">
             <English>Banner (GDI, Border)</English>
@@ -15,17 +21,26 @@
         <Key ID="STR_tibe_flag_gdi_02">
             <English>Flag (GDI, White)</English>
         </Key>
+        <Key ID="STR_tibe_flag_gdi_02_battered">
+            <English>Flag (GDI, White, Battered)</English>
+        </Key>
         <Key ID="STR_tibe_flag_banner_gdi_02">
             <English>Banner (GDI, White)</English>
         </Key>
         <Key ID="STR_tibe_flag_nod_00">
             <English>Flag (NOD, Black)</English>
         </Key>
+        <Key ID="STR_tibe_flag_nod_00_battered">
+            <English>Flag (NOD, Black, Battered)</English>
+        </Key>
         <Key ID="STR_tibe_flag_banner_nod_00">
             <English>Banner (NOD, Black)</English>
         </Key>
         <Key ID="STR_tibe_flag_nod_01">
             <English>Flag (NOD, Red)</English>
+        </Key>
+        <Key ID="STR_tibe_flag_nod_01_battered">
+            <English>Flag (NOD, Red, Battered)</English>
         </Key>
         <Key ID="STR_tibe_flag_banner_nod_01">
             <English>Banner (NOD, Red)</English>

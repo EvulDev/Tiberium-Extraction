@@ -18,5 +18,23 @@
         <Key ID="STR_tibe_item_laptop_03_closed_sand_gdi_00">
             <English>Rugged Laptop (Sand, Closed) (GDI)</English>
         </Key>
+        <Key ID="STR_tibe_item_laptop_03_black_nod_00">
+            <English>Rugged Laptop (Black, Open) (NOD)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_olive_nod_00">
+            <English>Rugged Laptop (Olive, Open) (NOD)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_sand_nod_00">
+            <English>Rugged Laptop (Sand, Open) (NOD)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_closed_black_nod_00">
+            <English>Rugged Laptop (Black, Closed) (NOD)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_closed_olive_nod_00">
+            <English>Rugged Laptop (Olive, Closed) (NOD)</English>
+        </Key>
+        <Key ID="STR_tibe_item_laptop_03_closed_sand_nod_00">
+            <English>Rugged Laptop (Sand, Closed) (NOD)</English>
+        </Key>
     </Package>
 </Project>
