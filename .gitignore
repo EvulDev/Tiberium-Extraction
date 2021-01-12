@@ -14,3 +14,10 @@ release/*
 Keys/*
 keys/*
 .hemtt/local
+addons/insignia/data/tibe_insignia_gdi_00_ca.psd
+addons/insignia/data/tibe_insignia_gdi_01_ca.psd
+addons/insignia/data/tibe_insignia_gdi_02_ca.psd
+addons/insignia/data/tibe_insignia_gdi_03_ca.psd
+addons/insignia/data/tibe_insignia_nod_00_ca.psd
+addons/insignia/data/tibe_insignia_nod_01_ca.psd
+addons/insignia/data/tibe_insignia_nod_02_ca.psd
