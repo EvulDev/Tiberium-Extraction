@@ -13,3 +13,13 @@ Tiberium Extraction is a texture mod for Arma 3 containing flags signs and other
 
 ## Addons required
 - [CBA](https://github.com/CBATeam/CBA_A3)
+
+## Unused Textures
+Here you can find texture paths to unused textures in the mod. All textures are pressent and you can obtain them by utalizing [`setObjectTextureGlobal`](https://community.bistudio.com/wiki/setObjectTextureGlobal) or the TexturePath input on the eden object used if one exist.
+- z\tibe\addons\sign\data\tibe_militarycheckpoint_aaf_co.paa
+- z\tibe\addons\sign\data\tibe_militarycheckpoint_aaf_old_co.paa
+- z\tibe\addons\sign\data\tibe_militarycheckpoint_csat_co.paa
+- z\tibe\addons\sign\data\tibe_militarycheckpoint_csat_old_co.paa
+- z\tibe\addons\sign\data\tibe_militarycheckpoint_nato_co.paa
+- z\tibe\addons\sign\data\tibe_militarycheckpoint_nato_old_co.paa
+- z\tibe\addons\sign\data\tibe_tiberium_english_black_co.paa
