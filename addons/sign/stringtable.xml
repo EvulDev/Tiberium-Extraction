@@ -52,6 +52,9 @@
         <Key ID="STR_tibe_sign_tiberiumstorage_english">
             <English>Sign (Tiberium Storage - International)</English>
         </Key>
+        <Key ID="STR_tibe_sign_tiberiumstorage_english">
+            <English>Sign (Tiberium Storage - International) (Old)</English>
+        </Key>
 
         <Key ID="STR_tibe_sign_tiberium_english">
             <English>Sign (Tiberium, International)</English>

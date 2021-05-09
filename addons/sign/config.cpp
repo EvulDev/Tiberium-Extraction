@@ -21,6 +21,7 @@ class CfgPatches {
             "tibe_land_sign_checkpoint_gdi_english_F",
             "tibe_land_sign_checkpoint_gdi_english_old_F",
             "tibe_land_sign_tiberiumstorage_english_F",
+            "tibe_land_sign_tiberiumstorage_english_old_F",
             "tibe_land_sign_tiberianstorage_english_F", // Depricated
             "tibe_land_sign_tiberium_english_F",
             "tibe_land_sign_tiberiumtall_english_F"

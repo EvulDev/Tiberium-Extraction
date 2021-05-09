@@ -187,6 +187,17 @@ class CfgVehicles {
         scope = 1;
         scopeCurator = 1;
     };
+    class tibe_land_sign_tiberiumstorage_english_old_F : Land_Sign_WarningUnexplodedAmmo_F {
+        scope = 2;
+        scopeCurator = 2;
+        displayName = CSTRING(tiberiumstorage_english_old);
+        author = ECSTRING(main,modteam);
+        //editorPreview = QPATHTOF(EditorPreviews\tibe_land_sign_tiberianstorage_english_F.jpg);
+
+        hiddenSelectionsTextures[] = {
+            QPATHTOF(data\tibe_tiberiumstorage_english_old_co.paa)
+        };
+    };
     class Land_Sign_Mines_F;
     class tibe_land_sign_tiberium_english_F : Land_Sign_Mines_F {
         scope = 2;
