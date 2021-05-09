@@ -1,4 +1,4 @@
-<Project name="tib">
+<Project name="tibe">
     <Package name="common">
         <Key ID="str_tibe_common_faction_gdi">
             <English>GDI</English>
