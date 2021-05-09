@@ -36,7 +36,7 @@ class CfgVehicles {
         //editorPreview = QPATHTOF(EditorPreviews\tibe_logo_nod_white_large_f.jpg);
 
         hiddenSelectionsTextures[] = {
-            QPATHTOF(data\tibe_logo_gdi_white_ca.paa)
+            QPATHTOF(data\tibe_logo_nod_white_ca.paa)
         };
     };
     class tibe_logo_nod_white_small_f : Land_Graffiti_04_F {
